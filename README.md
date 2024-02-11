@@ -20,5 +20,6 @@ By harnessing the power of Python in Jupyter Notebooks, we dissect, understand, 
 ### Installation
 Clone the repository to get started with the RNA-Protein interactions visualization:
   - https://github.com/mhadihossaini/Visualizing_RNA-Protein_Interactions.git
+
 Navigate into the repository and install the required libraries using:
   - pip install -r requirements.txt
